@@ -15,9 +15,9 @@ Establish a consistent workflow for future, more complex projects
 
 Create a reference point for the fundamental "Hello World" pattern in JavaScript
 
-Software Demo Video (Replace with your actual YouTube link)
 
 Development Environment
+
 Tools Used:
 
 Visual Studio Code as my primary code editor
